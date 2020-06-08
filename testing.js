@@ -755,4 +755,4 @@ class Scratch3BetterPenBlocks {
     }
 }
 
-module.exports = Scratch3PenBlocks;
+module.exports = Scratch3BetterPenBlocks;
