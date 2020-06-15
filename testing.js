@@ -225,7 +225,7 @@ class Utilities {
           //     A LOOP block is like a CONDITIONAL block with two differences:
           //     - the block is assumed to have exactly one child branch, and
           //     - each time a child branch finishes, the loop block is called again.
-          blockType: BlockType.REPORTER,
+          blockType: Scratch.BlockType.REPORTER,
 
           // Required for CONDITIONAL blocks, ignored for others: the number of
           // child branches this block controls. An "if" or "repeat" block would
